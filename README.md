@@ -1,8 +1,8 @@
 **Better Popup Launcher** is a Plasmoid for KDE Plasma 5, built upon [Popup Launcher](https://github.com/dfaust/plasma-applet-popup-launcher).
 
-It adds an icon to the KDE Panel, which loads a menu with application shortcuts, as selected by the user.
+It adds an icon to the KDE Panel which loads a menu with application shortcuts, as selected by the user.
 
-Compared to the original Plasmoid, it comes with the following improvements:
+Compared to the original Popup Launcher, it comes with the following improvements:
 
 1. You can <ins>add separators</ins> to the menu (separators can be thin lines, or spaces);
 2. The position of the apps in the configuration window can be changed by <ins>drag and drop</ins>, rather than by arrow-clicking the tiny menu previously available (now no longer included);
