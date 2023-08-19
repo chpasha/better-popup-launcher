@@ -10,6 +10,18 @@ Compared to the original Plasmoid, it comes with the following improvements:
 3. You can pick an icon for the panel using the KDE <ins>icon picker</ins>, rather than browsing the File open dialog;
 4. The versions of most components imported into the Plasmoid have been <ins>updated</ins>.
 
+## How to Install
+#### From the KDE Store:
+* visit this page
+* Download the attached `.plasmoid` file
+* extract the files to `~/.local/share/plasma/plasmoids/`
+* add the widget to the Panel
+#### From here:
+* Download [the latest release](https://github.com/unalignedcoder/better-popup-launcher/releases/tag/plasmoid) `.plasmoid` file
+* extract the files to `~/.local/share/plasma/plasmoids/`
+* add the widget to the Panel
+
+## Gallery
 working tooltip:
 
 ![working tooltip](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/02eaba1d-469d-43a8-a8b6-8348a8592b1e)
@@ -25,3 +37,4 @@ improved config window:
 integrated Icon picker:
 
 ![integrated Icon picker](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/cc4f12cf-d597-4eba-914c-444213d9aa55)
+
