@@ -1,4 +1,4 @@
-Tuscoss Popup Launcher was built upon the old KDE Popup Launcher, with the following improvements:
+**Better Popup Launcher** is built upon the old KDE Popup Launcher, with the following improvements:
 
 1. You can add separators to the menu (separators can be thin lines, or spaces);
 2. The position of the apps in the configuration window can be changed by dragging the apps, rather than the arrow-click tiny menu previously available;
