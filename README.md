@@ -21,7 +21,7 @@ Compared to the original Plasmoid, it comes with the following improvements:
 * extract the files to `~/.local/share/plasma/plasmoids/`
 * add the widget to the Panel
 
-..or else, look for this among the new Widgets directly from your Plasma desktop.
+..or else, look for "Better Popup Launcher" among the new Widgets directly from your Plasma desktop.
 
 ## Gallery
 working tooltip:
