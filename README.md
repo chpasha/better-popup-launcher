@@ -12,7 +12,7 @@ Compared to the original Plasmoid, it comes with the following improvements:
 
 ## How to Install
 #### From the KDE Store:
-* visit this page
+* visit [this page](https://www.pling.com/p/2074266/) on the KDE store
 * Download the attached `.plasmoid` file
 * extract the files to `~/.local/share/plasma/plasmoids/`
 * add the widget to the Panel
