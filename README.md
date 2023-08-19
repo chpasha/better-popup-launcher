@@ -12,16 +12,16 @@ Compared to the original Plasmoid, it comes with the following improvements:
 
 working tooltip:
 
-![Screenshot_20230819_161042](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/e4dddb1c-cbc2-4fca-9e36-bc55056d6950)
+![working tooltip](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/e4dddb1c-cbc2-4fca-9e36-bc55056d6950)
 
 menu with separators:
 
-![Screenshot_20230819_161123](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/9a1d45d3-8da7-43c1-899b-d1511ae01000)
+![menu with separators](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/9a1d45d3-8da7-43c1-899b-d1511ae01000)
 
 improved config window:
 
-![Screenshot_20230819_161157](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/cf9a5e3a-e4a9-474c-966f-5b196d5506a9)
+![improved config window](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/cf9a5e3a-e4a9-474c-966f-5b196d5506a9)
 
 integrated Icon picker:
 
-![Screenshot_20230819_161220](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/9d8ea3f3-85e1-4a5b-9760-f956237afc0c)
+![integrated Icon picker](https://github.com/unalignedcoder/better-popup-launcher/assets/16850566/9d8ea3f3-85e1-4a5b-9760-f956237afc0c)
