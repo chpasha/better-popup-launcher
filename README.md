@@ -16,7 +16,7 @@ Compared to the original Plasmoid, it comes with the following improvements:
 * Download the attached `.plasmoid` file
 * extract the files to `~/.local/share/plasma/plasmoids/`
 * add the widget to the Panel
-#### From here:
+#### From Github:
 * Download [the latest release](https://github.com/unalignedcoder/better-popup-launcher/releases/tag/plasmoid) `.plasmoid` file
 * extract the files to `~/.local/share/plasma/plasmoids/`
 * add the widget to the Panel
