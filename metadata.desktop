@@ -1,11 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Better Popup Launcher
-Comment=A custom application launcher that opens a popup when placed in a panel, with separators
+Comment=An improved popup application launcher that opens a menu when placed in a panel, with separators
 Type=Service
+Icon=application-menu
 X-KDE-ParentApp=
-X-KDE-PluginInfo-Author=Nonhocapito
-X-KDE-PluginInfo-Email=nonhocapito@tuscoss.com
+X-KDE-PluginInfo-Author=unalignedcoder
+X-KDE-PluginInfo-Email=unalignedcoder@tuscoss.com
 X-KDE-PluginInfo-License=GPL2
 X-KDE-PluginInfo-Name=tuscoss.betterPopupLauncher
 X-KDE-PluginInfo-Version=1.4
@@ -15,4 +16,3 @@ X-Plasma-API=declarativeappletscript
 X-Plasma-MainScript=ui/main.qml
 X-Plasma-RemoteLocation=
 X-KDE-PluginInfo-Category=Application Launchers
-Icon=system-run
