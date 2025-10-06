@@ -106,7 +106,7 @@ T.Page {
                     onClicked: {
                         popupLauncher.expanded = false
                         //TODO is there any analog in plasma6? kRun.openUrl("file:" + appsSource.data[modelData].entryPath)
-                        executable.exec("kfmclient exec " + appsSource.data[modelData].entryPath)
+                        executable.exec('kfmclient exec "' + appsSource.data[modelData].entryPath+'"')
                     }
 
                     Row {
